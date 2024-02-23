@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 👋 About Me
 <!--
 **satyamJha002/satyamJha002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello everyone! My name is Satyam Jha and I want to become a full-stack developer I am still learning frontend and I have created some projects in frontend as well as full stack. I also design websites using Figma and Webflow. Now my main focus is frontend but I want to become a full-stack developer in the future.
+
+
