@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello everyone! My name is Satyam Jha and I want to become a full-stack developer I am still learning frontend and I have created some projects in frontend as well as full stack. I also design websites using Figma and Webflow. Now my main focus is frontend but I want to become a full-stack developer in the future.
+Hello! I'm Satyam Jha, a front-end developer passionate about becoming a full-stack developer. I've completed several front-end projects and designed websites with Figma and Webflow. My focus is currently on frontend development, but I aspire to become a full-stack developer soon.s is currently on frontend development, my ultimate goal is to become a proficient full-stack developer shortly.
+
+Thank you kindly for your time and consideration.
+
+Best regards,
+Satyam Jha
 
 ### :globe_with_meridians: Socials
 <a href="https://www.linkedin.com/in/satyam-jha-9b97a6228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLv01o%2BSRSPGhyrW6tFQ%2BbQ%3D%3D">
